@@ -1,6 +1,6 @@
 /*!
  * Start Bootstrap - Landing Page v5.0.1 (https://startbootstrap.com/template-overviews/landing-page)
- * Copyright 2013-2018 Start Bootstrap
+ * Copyright 2013-2019 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-landing-page/blob/master/LICENSE)
  */
 
@@ -18,17 +18,6 @@ h6 {
   font-weight: 700;
 }
 
-.special-card {
-  /* create a custom class so you 
-     do not run into specificity issues 
-     against bootstraps styles
-     which tends to work better than using !important 
-     (future you will thank you later)*/
-  
-    background-color: rgba(245, 245, 245, 1);
-    opacity: .4;
-  }
-  
 header.masthead {
   position: relative;
   background-color: #343a40;
@@ -58,7 +47,7 @@ header.masthead h1 {
     padding-bottom: 12rem;
   }
   header.masthead h1 {
-    font-size: 2rem;
+    font-size: 3rem;
   }
 }
 
